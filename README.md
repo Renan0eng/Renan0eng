@@ -1,4 +1,5 @@
 
+
 ## Olá, eu sou o Renan Nardi :wave:
 
 ###### Eu sou um apaixonado por tecnologia e programação, sempre buscando aprender e compartilhar conhecimento. No meu GitHub, você encontrará meus projetos pessoais. Fique à vontade para dar uma olhada e fazer contribuições!
@@ -16,8 +17,12 @@
 
 Sou um desenvolvedor de software apaixonado por tecnologia e por resolver problemas. Atualmente faço estagio como desenvolvedor web na [Ápice Sistemas](https://www.linkedin.com/company/apice-consultoria-e-sistemas/mycompany/).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan0eng&show_icons=true&theme=tokyonight)
+<div align="center">
 
-#### Tenologias que eu uso no meu dia a dia
+#### Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan0eng&layout=compact&theme=tokyonight)
+
+  <a href="https://github.com/Renan0eng">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Renan0eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan0eng&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
