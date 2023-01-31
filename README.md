@@ -28,6 +28,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e por resolver proble
 
   </span>
 </div>
+
 #### Estatísticas do GitHub
 
   <a href="https://github.com/Renan0eng">
