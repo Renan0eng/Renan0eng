@@ -21,7 +21,8 @@ Sou um desenvolvedor de software apaixonado por tecnologia e por resolver proble
 
 #### Meus projetos
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan0eng&repo=Site-Analise-De-Solo)](https://github.com/Renan0eng/Site-Analise-De-Solo)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan0eng&repo=Site-Analise-De-Solo)](https://github.com/Renan0eng/Site-Analise-De-Solo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan0eng&repo=Provavel_TCC)](https://github.com/Renan0eng/Provavel_TCC) 
+
 #### Estatísticas do GitHub
 
   <a href="https://github.com/Renan0eng">
