@@ -1,10 +1,8 @@
-
-
 ## Olá, eu sou o Renan Nardi :wave:
 
 ###### Eu sou um apaixonado por tecnologia e programação, sempre buscando aprender e compartilhar conhecimento. No meu GitHub, você encontrará meus projetos pessoais. Fique à vontade para dar uma olhada e fazer contribuições!
 
-#### Tecnologis que uso no meu dia a dia 
+#### Tecnologis que uso no meu dia a dia
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -14,19 +12,25 @@
 
 #### Sobre mim
 
-
 Sou um desenvolvedor de software apaixonado por tecnologia e por resolver problemas. Atualmente faço estagio como desenvolvedor web na [Ápice Sistemas](https://www.linkedin.com/company/apice-consultoria-e-sistemas/mycompany/).
 
 <div align="center">
 
 #### Meus projetos
+  <span height="160em">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan0eng&repo=Site-Analise-De-Solo)](https://github.com/Renan0eng/Site-Analise-De-Solo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan0eng&repo=Provavel_TCC)](https://github.com/Renan0eng/Provavel_TCC) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan0eng&repo=Site-Analise-De-Solo)](https://github.com/Renan0eng/Site-Analise-De-Solo)
 
+  </span>
+  <span height="160em">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan0eng&repo=Provavel_TCC)](https://github.com/Renan0eng/Provavel_TCC)
+
+  </span>
+</div>
 #### Estatísticas do GitHub
 
   <a href="https://github.com/Renan0eng">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Renan0eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan0eng&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
