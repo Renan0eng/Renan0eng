@@ -12,7 +12,7 @@
 
 #### Sobre mim
 
-Sou um desenvolvedor de software apaixonado por tecnologia e por resolver problemas. Atualmente faço estagio como desenvolvedor web na [Ápice Sistemas](https://www.linkedin.com/company/apice-consultoria-e-sistemas/mycompany/).
+Sou um desenvolvedor de software apaixonado por tecnologia e por resolver problemas.
 
 <div align="center">
 
