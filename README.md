@@ -14,10 +14,7 @@
 
 Sou um desenvolvedor de software apaixonado por tecnologia e por resolver problemas.
 
-<div style={{
-  display:"flex",
-  flex-direction:"row"
-  }}>
+<div bacgroundColor="red" >
 
 #### Meus projetos
   <span >
