@@ -14,7 +14,7 @@
 
 Sou um desenvolvedor de software apaixonado por tecnologia e por resolver problemas.
 
-<div >
+<div display="flex" flex-direction="row">
 
 #### Meus projetos
   <span >
