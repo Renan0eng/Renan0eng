@@ -10,26 +10,44 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renan_nardii/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-nardi-569300223/)
 
+
 #### Sobre mim
 
-Sou um desenvolvedor de software apaixonado por tecnologia e por resolver problemas.
+
+###### Sou um desenvolvedor de software.
+
+###### Tenho 20 anos.
+
+###### Estudei um ano de engenharia de software e estagiei por 7 meses durante esse período.
+
+###### Atualmente, estou estudando sistemas de informação 1/4
+
 
 #### Meus projetos
 
 
 **[Visite o ERP Peixe](https://eclipse.renannardi.com)**
 
-ERP criado para o gerenciamento do negócio da minha família. Ele organiza a entrada e saída, auxilia na rastreabilidade dos gastos e no desenvolvimento dos lotes de peixe.
+###### Um ERP foi desenvolvido para gerenciar o negócio da minha família. Ele organiza as entradas e saídas, auxilia na rastreabilidade dos gastos e no desenvolvimento dos lotes de peixe. 
+ 
+###### Foi construído utilizando React e Next.js, com banco de dados PostgreSQL utilizando Prisma ORM, o frontend foi desenvolvido com componentes do [MUI UI](https://mui.com), utilizando CSS e HTML.
 
 
 **[Meu Blog](https://blog.renannardi.com)**
 
-Meu blog, onde organizo minhas ideias e explico alguns dos meus novos projetos.
+###### Meu blog, onde organizo minhas ideias e explico alguns dos meus novos projetos.
+
+###### Foi construído utilizando React e Next.js, com banco de dados PostgreSQL utilizando Prisma ORM, o frontend foi desenvolvido com Tailwind CSS, boa parte do frontend foi copiado de um tamplate 
 
 
 **[Portifolio](https://www.renannardi.com/about)**
 
-Portfólio que usei para aprender Tailwind CSS; acabei utilizando-o como meu portfólio.
+###### Portfólio que usei para aprender Tailwind CSS; acabei utilizando-o como meu portfólio.
+
+
+**[Diagnóstico Médico Python](https://github.com/Renan0eng/python)**
+
+###### API em Python que conta e, futuramente, identificará cada uma das células do sangue com um possível defeito, mais explicado no [Post do meu  blog](https://blog.renannardi.com/post/b7d6284a-5657-429d-a04b-9bac3226c991/)
 
 
 #### Estatísticas do GitHub
