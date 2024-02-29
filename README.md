@@ -14,7 +14,7 @@
 
 Sou um desenvolvedor de software apaixonado por tecnologia e por resolver problemas.
 
-<div style="background-color: red; padding: 20px;">
+<div >
 
 #### Meus projetos
   <span >
