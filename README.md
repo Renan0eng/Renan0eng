@@ -19,12 +19,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e por resolver proble
 #### Meus projetos
   <span height="160em">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan0eng&repo=CodeCampus)](https://github.com/Renan0eng/CodeCampus)
-
-  </span>
-  <span height="160em">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan0eng&repo=Provavel_TCC)](https://github.com/Renan0eng/Provavel_TCC)
+  <a href="https://eclipse.renannardi.com" target_="blank"></a>
 
   </span>
 </div>
