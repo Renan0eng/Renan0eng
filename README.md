@@ -14,13 +14,20 @@
 
 Sou um desenvolvedor de software apaixonado por tecnologia e por resolver problemas.
 
-<div>
+<div flexdirection="row">
 
 #### Meus projetos
   <span >
-
   <a href="https://eclipse.renannardi.com" target="_blank">ERP Peixe</a>
-
+  <p>
+    ERP criado para o gerenciamento do negócio da minha família. Ele organiza a entrada e saída, auxilia na rastreabilidade dos gastos e no desenvolvimento dos lotes de peixe.
+  </p>
+  </span>
+  <span >
+  <a href="https://eclipse.renannardi.com" target="_blank">ERP Peixe</a>
+  <p>
+    ERP criado para o gerenciamento do negócio da minha família. Ele organiza a entrada e saída, auxilia na rastreabilidade dos gastos e no desenvolvimento dos lotes de peixe.
+  </p>
   </span>
 </div>
 
