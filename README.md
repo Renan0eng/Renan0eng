@@ -14,10 +14,10 @@
 
 Sou um desenvolvedor de software apaixonado por tecnologia e por resolver problemas.
 
-<div align="center">
+<div>
 
 #### Meus projetos
-  <span height="100%">
+  <span >
 
   <a href="https://eclipse.renannardi.com" target="_blank">ERP Peixe</a>
 
