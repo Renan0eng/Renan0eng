@@ -4,7 +4,7 @@
 
 #### Tecnologis que uso no meu dia a dia
 
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&logo=typecript&logoColor=black) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 #### Onde me encontrar
 
@@ -14,22 +14,23 @@
 
 Sou um desenvolvedor de software apaixonado por tecnologia e por resolver problemas.
 
-<div display="flex" flex-direction="row">
-
 #### Meus projetos
-  <span >
-  <a href="https://eclipse.renannardi.com" target="_blank">ERP Peixe</a>
-  <p>
-    ERP criado para o gerenciamento do negócio da minha família. Ele organiza a entrada e saída, auxilia na rastreabilidade dos gastos e no desenvolvimento dos lotes de peixe.
-  </p>
-  </span>
-  <span >
-  <a href="https://eclipse.renannardi.com" target="_blank">ERP Peixe</a>
-  <p>
-    ERP criado para o gerenciamento do negócio da minha família. Ele organiza a entrada e saída, auxilia na rastreabilidade dos gastos e no desenvolvimento dos lotes de peixe.
-  </p>
-  </span>
-</div>
+
+
+**[Visite o ERP Peixe](https://eclipse.renannardi.com)**
+
+ERP criado para o gerenciamento do negócio da minha família. Ele organiza a entrada e saída, auxilia na rastreabilidade dos gastos e no desenvolvimento dos lotes de peixe.
+
+
+**[Meu Blog](https://blog.renannardi.com)**
+
+Meu blog, onde organizo minhas ideias e explico alguns dos meus novos projetos.
+
+
+**[Portifolio](https://www.renannardi.com/about)**
+
+Portfólio que usei para aprender Tailwind CSS; acabei utilizando-o como meu portfólio.
+
 
 #### Estatísticas do GitHub
 
