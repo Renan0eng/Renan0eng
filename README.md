@@ -17,7 +17,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e por resolver proble
 <div align="center">
 
 #### Meus projetos
-  <span height="160em">
+  <span height="100%">
 
   <a href="https://eclipse.renannardi.com" target="_blank">ERP Peixe</a>
 
